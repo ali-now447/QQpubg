@@ -1,1 +1,0 @@
-pm install /data/app/com.tencent.ig*/base.apk
